@@ -13,7 +13,7 @@ The only things you need to install GEMP are `G++` and `Make`
 See `UNINSTALL.md`
 
 ---
-gemp is pronounced "g-eh-mp", like gimp
-btw, gemp isn't an acronym :)
-I'll prob revise this later, but sorry if this readme seems a bit odd, I can't think right.
+gemp is pronounced "g-eh-mp", like gimp<br>
+btw, gemp isn't an acronym :)<br>
+I'll prob revise this later, but sorry if this readme seems a bit lack luster, I can't think right.<br>
 After all, I've been working on this all day lol
